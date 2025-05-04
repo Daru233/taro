@@ -5,6 +5,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+venv/
+env/
+.lib/
+lib/
 
 .vscode/
 .idea/

@@ -1,0 +1,101 @@
+{
+    "low_spender": {
+        "spending_per_day": {
+            "Monday": 1,
+            "Tuesday": 2,
+            "Wednesday": 2,
+            "Thursday": 1,
+            "Friday": 2,
+            "Saturday": 3,
+            "Sunday": 1
+        },
+        "amount_ranges": {
+            "Food": [
+                5,
+                12
+            ],
+            "Drink": [
+                2,
+                5
+            ],
+            "Transport": [
+                5,
+                15
+            ],
+            "Shopping": [
+                5,
+                25
+            ],
+            "Entertainment": [
+                5,
+                15
+            ]
+        }
+    },
+    "normal": {
+        "spending_per_day": {
+            "Monday": 2,
+            "Tuesday": 2,
+            "Wednesday": 5,
+            "Thursday": 5,
+            "Friday": 2,
+            "Saturday": 8,
+            "Sunday": 3
+        },
+        "amount_ranges": {
+            "Food": [
+                8,
+                15
+            ],
+            "Drink": [
+                3,
+                5
+            ],
+            "Transport": [
+                5,
+                15
+            ],
+            "Shopping": [
+                0,
+                20
+            ],
+            "Entertainment": [
+                0,
+                10
+            ]
+        }
+    },
+    "big_spender": {
+        "spending_per_day": {
+            "Monday": 5,
+            "Tuesday": 8,
+            "Wednesday": 8,
+            "Thursday": 7,
+            "Friday": 10,
+            "Saturday": 15,
+            "Sunday": 7
+        },
+        "amount_ranges": {
+            "Food": [
+                20,
+                60
+            ],
+            "Drink": [
+                10,
+                30
+            ],
+            "Transport": [
+                15,
+                40
+            ],
+            "Shopping": [
+                30,
+                200
+            ],
+            "Entertainment": [
+                20,
+                80
+            ]
+        }
+    }
+}
